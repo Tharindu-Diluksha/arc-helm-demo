@@ -11,3 +11,4 @@ spec:
     path: charts/azure-arc-sample
   values:
     serviceName: arc-k8s-demo
+    replicaCount: 2
